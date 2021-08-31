@@ -1,4 +1,4 @@
-### hey there  I'm Chanaka
+### Hello there👋 I'm Chanaka
 
 I design, analyse and manage software projects.
 
