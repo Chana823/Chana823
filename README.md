@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Chanaka
 
-<!--
+
 **Chana823/Chana823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about UI/UX, Project Management, Requirement Engineering and Product Management
 - 📫 How to reach me: https://www.linkedin.com/in/chanakag/
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I can DJ and that's what I practice sometimes whenever I get a good vacation. 
+- ⚡ Fun fact: I can DJ and that's what I practice sometimes whenever I get a good vacation.
 
 
