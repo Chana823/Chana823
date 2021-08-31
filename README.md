@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Chanaka
+### hey there  I'm Chanaka
 
 I design, analyse and manage software projects.
 
@@ -9,5 +9,6 @@ I design, analyse and manage software projects.
 - 💬 Ask me about UI/UX, Project Management, Requirement Engineering and Product Management
 - 📫 How to reach me: https://www.linkedin.com/in/chanakag/
 - ⚡ Fun fact: I sometimes DJ and that's what I do whenever I get a good long vacation.
+- https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif
 
 
