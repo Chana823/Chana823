@@ -8,7 +8,6 @@ I design, analyse and manage software projects.
 - 👯 I’m looking to collaborate on User centered design ideas
 - 💬 Ask me about UI/UX, Project Management, Requirement Engineering and Product Management
 - 📫 How to reach me: https://www.linkedin.com/in/chanakag/
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I can DJ and that's what I practice sometimes whenever I get a good vacation.
+- ⚡ Fun fact: I sometimes DJ and that's what I do whenever I get a good long vacation.
 
 
