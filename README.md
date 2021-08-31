@@ -1,11 +1,7 @@
 ### Hi there 👋 I'm Chanaka
 
+I design, analyse and manage software projects.
 
-**Chana823/Chana823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- Hi, I'm Chanaka. I design, analyse and manage software projects.
 - 🔭 Currently I'm an Information Systems Master Student at Uppsala University who have 5 years of experience in the IT industry. I have experience providing inception to delivery  management in Large Scale Enterprise IT implementations. My github portfolio consist of 2 lab projects I have developed with C# as a part of my Master program subject Contemporary software development. Both of the labs are command line applications and follows object oriented programming concepts and design patterns.
 
 - 🌱 I’m currently learning AI and ML as a subject in my Master program
