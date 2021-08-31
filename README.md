@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I can DJ and that's what I practice sometimes whenever I get a good vacation. 
 
 
--->
-
