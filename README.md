@@ -8,5 +8,5 @@ I design, analyse and manage software projects.
 - 👯 I’m looking to collaborate on User centered design ideas
 - 💬 Ask me about UI/UX, Project Management, Requirement Engineering and Product Management
 - 📫 How to reach me: https://www.linkedin.com/in/chanakag/
-- ⚡ Fun fact: I sometimes DJ and that's what I do whenever I get a good long vacation.
+- ⚡ Fun fact: I do love music production and DJing whenever I get time to do that.
 
